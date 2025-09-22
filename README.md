@@ -29,6 +29,7 @@ I like to build, break, and rebuild things. Sometimes I code, sometimes I just s
 ## ⚡ Fun Fact  
 I once tried to fix a bug by taking a nap... and it actually worked. 😴✨  
 
+Programming Rule: If it works do not touch it. 
 ---
 
 ⭐️ If you’re here, drop a follow or check out my projects!  
